@@ -8,5 +8,5 @@ Meine Profile
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serdarayalp&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serdarayalp&repo=my-encrypted-communication)](https://github.com/serdarayalp/my-encrypted-communication)
+[//]: # ([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serdarayalp&repo=my-encrypted-communication)](https://github.com/serdarayalp/my-encrypted-communication))
 
